@@ -1,0 +1,10 @@
+ID:9 | кукла | Chance: 3.0
+ID:7 | конструктор | Chance: 2.0
+ID:9 | кукла | Chance: 3.0
+ID:8 | робот | Chance: 2.0
+ID:3 | кукла | Chance: 3.0
+ID:3 | кукла | Chance: 3.0
+ID:9 | кукла | Chance: 3.0
+ID:2 | робот | Chance: 2.0
+ID:9 | кукла | Chance: 3.0
+ID:1 | конструктор | Chance: 2.0
